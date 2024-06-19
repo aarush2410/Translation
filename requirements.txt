@@ -1,0 +1,14 @@
+streamlit
+bs4
+fitz
+frontend
+googletrans==4.0.0-rc1
+nltk
+transformers 
+torch 
+sentencepiece
+requests 
+beautifulsoup4 
+PyMuPDF 
+pandas 
+python-docx
